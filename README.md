@@ -9,7 +9,7 @@
 ## Task-3 - Image Popup
  - [live Link](https://mageshvachiravel.github.io/EMC-TASK/Image%20Gallery/index.html)
  
-## Task-4 - Image Popup
+## Task-4 - Mock API
  - [live Link](https://mageshvachiravel.github.io/EMC-TASK/Mock%20API/)
 
 
