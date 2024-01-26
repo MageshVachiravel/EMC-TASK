@@ -9,7 +9,7 @@ for(i=0 ; i<image.length ; i++){
     image[i].addEventListener("click",(e)=>{
         let src = e.target.src;
         popupImg.src = src;
-        popup.style.display = "block"
+        popup.style.display = "flex"
     })
 }
 
